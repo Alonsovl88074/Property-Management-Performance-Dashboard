@@ -1,0 +1,76 @@
+EntryID,TransactionDat,AccountCode,Description,Amount,EntryType,RelatedEntityID,RelatedEntityType
+FE1,01/10/2023,4000,October Rent - U1 (L1),1850,Revenue,L1,Lease
+FE2,01/10/2023,2100,October Security Deposit - U1 (L1),1850,Deposit,L1,Lease
+FE3,05/10/2023,6100,Payment for WO1 (Leaky Faucet),-165,Expense,WO1,WorkOrder
+FE4,01/11/2023,4000,November Rent - U1 (L1),1850,Revenue,L1,Lease
+FE5,01/11/2023,4000,November Rent - U3 (L3),1200,Revenue,L3,Lease
+FE6,01/12/2023,4000,December Rent - U5A (L5),800,Revenue,L5,Lease
+FE7,01/01/2024,4000,January Rent - U6 (L7),2600,Revenue,L7,Lease
+FE8,01/02/2024,4000,February Rent - U2 (L2),2300,Revenue,L2,Lease
+FE9,10/06/2024,6100,Payment for WO2 (U4 Make-ready Clean),-750,Expense,WO2,WorkOrder
+FE10,10/06/2024,6100,Payment for WO17 (U4 Carpet Clean),-140,Expense,WO17,WorkOrder
+FE11,15/06/2024,6100,Payment for WO8 (Dishwasher),-210,Expense,WO8,WorkOrder
+FE12,01/07/2024,4000,July Rent - U13 (L15),2000,Revenue,L15,Lease
+FE13,05/07/2024,6100,Payment for WO7 (U1 AC),-400,Expense,WO7,WorkOrder
+FE14,05/07/2024,6100,Payment for WO16 (U15 Dryer),-265,Expense,WO16,WorkOrder
+FE15,05/07/2024,6100,Payment for WO19 (U8B Paint),-680,Expense,WO19,WorkOrder
+FE16,05/07/2024,2100,Security Deposit - U8B (L19),925,Deposit,L19,Lease
+FE17,05/07/2024,4000,July Rent - U8B (L19) Pro-rated,462.5,Revenue,L19,Lease
+FE18,10/07/2024,6100,Payment for WO5 (U11B Deep Clean),-280,Expense,WO5,WorkOrder
+FE19,15/08/2024,4000,August Rent - U14B (L20),850,Revenue,L20,Lease
+FE20,15/08/2024,2100,Security Deposit - U14B (L20),850,Deposit,L20,Lease
+FE21,01/02/2024,4000,February Rent - U21 (L21),1750,Revenue,L21,Lease
+FE22,01/02/2024,2100,February Security Deposit - U21 (L21),1750,Deposit,L21,Lease
+FE23,01/03/2024,4000,March Rent - U22 (L22),2050,Revenue,L22,Lease
+FE24,05/03/2024,6100,Payment for WO21 (U21 Toilet),-110,Expense,WO21,WorkOrder
+FE25,01/04/2024,4000,April Rent - U23 (L23),700,Revenue,L23,Lease
+FE26,15/04/2024,6100,Payment for WO41 (U21 Smoke Detector),-50,Expense,WO41,WorkOrder
+FE27,20/04/2024,6100,Payment for WO42 (U22 GFI Outlet),-95,Expense,WO42,WorkOrder
+FE28,01/05/2024,4000,May Rent - U25A (L25),900,Revenue,L25,Lease
+FE29,05/05/2024,6100,Payment for WO43 (U23 Toilet Handle),-70,Expense,WO43,WorkOrder
+FE30,01/06/2024,4000,June Rent - U25C (L26),750,Revenue,L26,Lease
+FE31,10/06/2024,6100,Payment for WO22 (U24 Deep Clean),-280,Expense,WO22,WorkOrder
+FE32,12/06/2024,6100,Payment for WO44 (U24 Paint),-520,Expense,WO44,WorkOrder
+FE33,17/06/2024,6100,Payment for WO45 (U25B Paint),-680,Expense,WO45,WorkOrder
+FE34,01/07/2024,4000,July Rent - U26 (L27),1850,Revenue,L27,Lease
+FE35,01/07/2024,2100,July Security Deposit - U24 (L51),1650,Deposit,L51,Lease
+FE36,01/07/2024,4000,July Rent - U24 (L51),1650,Revenue,L51,Lease
+FE37,05/07/2024,6100,Payment for WO24 (U28B Blinds),-210,Expense,WO24,WorkOrder
+FE38,05/07/2024,6100,Payment for WO46 (U28B Clean),-290,Expense,WO46,WorkOrder
+FE39,10/07/2024,2100,July Security Deposit - U25B (L52),900,Deposit,L52,Lease
+FE40,10/07/2024,4000,July Rent - U25B (L52) Pro-rated,450,Revenue,L52,Lease
+FE41,10/07/2024,2100,July Security Deposit - U28B (L53),680,Deposit,L53,Lease
+FE42,10/07/2024,4000,July Rent - U28B (L53) Pro-rated,340,Revenue,L53,Lease
+FE43,12/07/2024,6100,Payment for WO34 (U6 Sprinkler),-90,Expense,WO34,WorkOrder
+FE44,15/07/2024,2100,July Security Deposit - U31B (L54),1250,Deposit,L54,Lease
+FE45,15/07/2024,4000,July Rent - U31B (L54) Pro-rated,625,Revenue,L54,Lease
+FE46,15/07/2024,6100,Payment for WO25 (U31B Paint),-380,Expense,WO25,WorkOrder
+FE47,15/07/2024,6100,Payment for WO47 (U31B Lights),-220,Expense,WO47,WorkOrder
+FE48,20/07/2024,6100,Payment for WO26 (U34B Window),-320,Expense,WO26,WorkOrder
+FE49,29/07/2024,6100,Payment for WO35 (U9 Sink),-100,Expense,WO35,WorkOrder
+FE50,30/07/2024,2100,July Security Deposit - U37B (L56),720,Deposit,L56,Lease
+FE51,30/07/2024,4000,July Rent - U37B (L56) Pro-rated,360,Revenue,L56,Lease
+FE52,31/07/2024,6100,Payment for WO27 (U37B Gutters),-140,Expense,WO27,WorkOrder
+FE53,01/08/2024,4000,August Rent - U27 (L28),2150,Revenue,L28,Lease
+FE54,05/08/2024,2100,August Security Deposit - U40B (L57),750,Deposit,L57,Lease
+FE55,05/08/2024,4000,August Rent - U40B (L57),750,Revenue,L57,Lease
+FE56,05/08/2024,6100,Payment for WO28 (U40B Cleaning),-240,Expense,WO28,WorkOrder
+FE57,10/08/2024,6100,Payment for WO36 (U10 Light),-65,Expense,WO36,WorkOrder
+FE58,15/08/2024,2100,August Security Deposit - U48B (L59),900,Deposit,L59,Lease
+FE59,15/08/2024,4000,August Rent - U48B (L59) Pro-rated,450,Revenue,L59,Lease
+FE60,15/08/2024,6100,Payment for WO30 (U48B Smoke Detector),-95,Expense,WO30,WorkOrder
+FE61,20/08/2024,2100,August Security Deposit - U34B (L55),800,Deposit,L55,Lease
+FE62,20/08/2024,4000,August Rent - U34B (L55),800,Revenue,L55,Lease
+FE63,20/08/2024,6100,Payment for WO48 (U34B Fence),-380,Expense,WO48,WorkOrder
+FE64,20/08/2024,6100,Payment for WO37 (U12 Fence),-170,Expense,WO37,WorkOrder
+FE65,22/08/2024,6100,Payment for WO38 (U13 Wasp Nest),-95,Expense,WO38,WorkOrder
+FE66,01/09/2024,4000,September Rent - U28A (L29),950,Revenue,L29,Lease
+FE67,01/09/2024,4000,September Rent - U7 (L60),1850,Revenue,L60,Lease
+FE68,01/09/2024,2100,September Security Deposit - U7 (L60),1850,Deposit,L60,Lease
+FE69,10/09/2024,2100,September Security Deposit - U45B (L58),950,Deposit,L58,Lease
+FE70,10/09/2024,4000,September Rent - U45B (L58) Pro-rated,316.67,Revenue,L58,Lease
+FE71,10/09/2024,6100,Payment for WO29 (P25 Pressure Wash),-480,Expense,WO29,WorkOrder
+FE72,15/09/2024,4000,September Rent - U10 (L12),750,Revenue,L12,Lease
+FE73,15/09/2024,6100,Payment for WO49 (U37B Paint/Drywall),-330,Expense,WO49,WorkOrder
+FE74,01/10/2024,4000,October Rent - U29 (L31),1950,Revenue,L31,Lease
+FE75,01/10/2024,4000,October Rent - U1 (L1),1850,Revenue,L1,Lease

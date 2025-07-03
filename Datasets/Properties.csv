@@ -1,0 +1,41 @@
+PropertyID,OwnerID,Address,City,State,Zip,PropertyType,Status,ManagementStartDate
+P1,O1,123 Main St,Anytown,CA,90210,Single Family,Active,15/01/2022
+P2,O2,456 Oak Ave,Smallville,TX,75001,Single Family,Active,01/03/2022
+P3,O3,789 Pine Ln,Lakewood,FL,33101,Condo,Active,20/04/2022
+P4,O4,101 Maple Rd,Hillcrest,NY,10001,Single Family,Active,05/06/2022
+P5,O5,202 Elm Blvd,Rivertown,IL,60601,Multi-family,Active,10/07/2022
+P6,O6,303 Birch Ct,Mountain View,CA,94040,Single Family,Active,22/08/2022
+P7,O7,404 Cedar St,Ocean City,FL,32003,Single Family,Active,15/09/2022
+P8,O8,505 Cherry Ln,Desert Hills,AZ,85001,Multi-family,Active,01/10/2022
+P9,O9,606 Walnut Ave,Farmdale,TX,76001,Single Family,Active,11/11/2022
+P10,O10,707 Spruce Rd,Green Valley,AZ,85254,Condo,Active,01/12/2022
+P11,O11,808 Pinehurst Dr,Metro City,NY,10002,Multi-family,Active,01/01/2023
+P12,O12,909 Forest Way,Woodland,OR,97001,Single Family,Active,14/02/2023
+P13,O13,111 Riverfront Bvd,Port Town,WA,98001,Single Family,Active,20/03/2023
+P14,O14,222 Mountain View Rd,Peak City,CO,80101,Multi-family,Active,18/04/2023
+P15,O15,333 Canyon Ct,Red Rock,UT,84101,Single Family,Active,01/05/2023
+P16,O16,444 Valley Dr,Sunnyvale,CA,94086,Single Family,Active,10/06/2023
+P17,O17,555 Downtown Ave,Urban Center,IL,60602,Multi-family,Active,01/07/2023
+P18,O18,666 High St,College Town,PA,19001,Single Family,Active,15/08/2023
+P19,O19,777 Park Ln,Suburbia,NJ,7001,Single Family,Active,20/09/2023
+P20,O20,888 Corporate Blvd,Business Park,TX,75002,Multi-family,Active,10/10/2023
+P21,O21,999 Cherry Lane,Westwood,CA,90211,Single Family,Active,10/01/2023
+P22,O22,111 Oak Street,Springfield,IL,62701,Single Family,Active,05/02/2023
+P23,O23,222 Pine Avenue,Capital City,NY,12201,Condo,Active,18/03/2023
+P24,O24,333 Maple Drive,Centerville,TX,75003,Single Family,Active,01/04/2023
+P25,O25,444 Elm Court,Great Lakes,MI,48201,Multi-family,Active,15/05/2023
+P26,O26,555 Birch Way,Coastal Town,FL,33102,Single Family,Active,20/06/2023
+P27,O27,666 Cedar Road,Mountainville,CO,80102,Single Family,Active,01/07/2023
+P28,O28,777 Cherry Court,Arid Plains,AZ,85002,Multi-family,Active,10/08/2023
+P29,O29,888 Walnut Street,Rural Acres,TX,76002,Single Family,Active,05/09/2023
+P30,O30,100 Spruce Avenue,High Desert,AZ,85255,Condo,Active,11/10/2023
+P31,O31,110 Main Street,Urbanville,NY,10003,Multi-family,Active,01/11/2023
+P32,O32,120 Forest Court,Deep Woods,OR,97002,Single Family,Active,14/12/2023
+P33,O33,130 River Road,Bayview,WA,98002,Single Family,Active,20/01/2024
+P34,O34,140 Peak Drive,Valleytown,CO,80103,Multi-family,Active,18/02/2024
+P35,O35,150 Mesa Court,Desert Bloom,UT,84102,Single Family,Active,01/03/2024
+P36,O36,160 Sunny Lane,Silicon Valley,CA,95001,Single Family,Active,10/04/2024
+P37,O37,170 City Center Way,Metropolis,IL,60603,Multi-family,Active,01/05/2024
+P38,O38,180 College Avenue,University Town,PA,19002,Single Family,Active,15/06/2024
+P39,O39,190 Parkway Drive,Green Suburb,NJ,7002,Single Family,Active,20/07/2024
+P40,O40,200 Tech Drive,Innovation Hub,TX,75004,Multi-family,Active,10/08/2024

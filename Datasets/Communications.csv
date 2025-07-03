@@ -1,0 +1,91 @@
+CommunicationID,ThreadID,RelatedEntityID,RelatedEntityType,Timestamp,Type,Direction,Subject,Status,AcknowledgementTimestamp,ResolutionTimestamp,SequenceInThread
+C1,TKT1,U1,Unit,10/06/2024 08:55,Email,Inbound,Leaky faucet in kitchen,Resolved,10/06/2024 09:10,12/06/2024 10:00,1
+C2,TKT1,U1,Unit,10/06/2024 09:10,Email,Outbound,RE: Leaky faucet in kitchen - WO created,Acknowledged,10/06/2024 09:10,12/06/2024 10:00,2
+C3,TKT1,U1,Unit,11/06/2024 11:10,Email,Outbound,Update on WO# WO1,Acknowledged,11/06/2024 11:10,12/06/2024 10:00,3
+C4,TKT1,U1,Unit,12/06/2024 09:05,Email,Outbound,WO# WO1 Completed,Resolved,12/06/2024 09:05,12/06/2024 10:00,4
+C5,TKT2,O3,Owner,15/06/2024 10:00,Email,Inbound,Question about statement,Resolved,15/06/2024 10:30,15/06/2024 11:00,1
+C6,TKT2,O3,Owner,15/06/2024 10:30,Email,Outbound,RE: Question about statement - Acknowledged,Acknowledged,15/06/2024 10:30,15/06/2024 11:00,2
+C7,TKT2,O3,Owner,15/06/2024 11:00,Phone Call,Outbound,Discussing statement details,Resolved,,15/06/2024 11:00,3
+C8,TKT3,U7,Unit,20/08/2024 09:00,Email,Outbound,Lease Renewal Offer Sent - Unit U7,Acknowledged,20/08/2024 09:00,,1
+C9,TKT3,U7,Unit,22/08/2024 10:00,Email,Inbound,Question about renewal terms,Open,22/08/2024 10:15,,2
+C10,TKT4,T4,Tenant,01/06/2024 08:00,Email,Inbound,Move-out notice U4,Resolved,01/06/2024 09:00,01/06/2024 10:00,1
+C11,TKT4,T4,Tenant,01/06/2024 09:00,Email,Outbound,RE: Move-out notice U4 - Confirmed,Acknowledged,01/06/2024 09:00,01/06/2024 10:00,2
+C12,TKT5,U8B,Unit,05/07/2024 09:00,System Message,Outbound,Owner Approval Requested for WO# WO4,Acknowledged,05/07/2024 09:00,05/07/2024 09:00,1
+C13,TKT5,O8,Owner,05/07/2024 09:30,Email,Inbound,Approved WO# WO4,Resolved,05/07/2024 09:45,05/07/2024 10:00,2
+C14,TKT6,U14B,Unit,15/08/2024 09:00,Email,Outbound,Lease Executed & Deposit Received - Unit U14B,Resolved,15/08/2024 09:00,15/08/2024 09:00,1
+C15,TKT7,U11B,Unit,09/07/2024 10:10,Email,Outbound,Lease Executed & Deposit Received - Unit U11B,Resolved,09/07/2024 10:10,09/07/2024 10:10,1
+C16,TKT8,A18,Application,18/06/2024 15:06,System Message,Outbound,Application A18 Approved & Leased,Resolved,18/06/2024 15:06,18/06/2024 15:06,1
+C17,TKT9,WO3,WorkOrder,20/06/2024 09:00,Email,Outbound,WO# WO3 Verified Complete,Resolved,20/06/2024 09:00,20/06/2024 09:00,1
+C18,TKT10,U4,Unit,05/06/2024 09:05,Email,Outbound,"Final Assessment Approved for U4 Make-Ready (WO2, WO17)",Resolved,05/06/2024 09:05,05/06/2024 09:05,1
+C19,TKT9,O5,Owner,20/06/2024 10:00,Email,Inbound,"Looks good, thanks!",Resolved,20/06/2024 10:05,20/06/2024 10:05,2
+C20,TKT3,T8,Tenant,24/08/2024 11:00,Phone Call,Inbound,Will sign renewal tomorrow,Open,24/08/2024 11:05,,3
+C21,TKT11,U21,Unit,01/03/2024 08:50,Email,Inbound,Running toilet in master bath,Resolved,01/03/2024 09:05,05/03/2024 10:00,1
+C22,TKT11,U21,Unit,01/03/2024 09:05,Email,Outbound,RE: Running toilet - WO created,Acknowledged,01/03/2024 09:05,05/03/2024 10:00,2
+C23,TKT12,A21,Application,05/06/2024 10:05,System Message,Outbound,Application A21 Submitted,Resolved,05/06/2024 10:05,01/07/2024 10:05,1
+C24,TKT12,A21,Application,05/06/2024 11:00,System Message,Outbound,Application A21 Docs Collected,Resolved,05/06/2024 11:00,01/07/2024 10:05,2
+C25,TKT12,A21,Application,06/06/2024 14:00,System Message,Outbound,Application A21 Qualified,Resolved,06/06/2024 14:00,01/07/2024 10:05,3
+C26,TKT12,A21,Application,10/06/2024 10:00,System Message,Outbound,Application A21 Selected,Resolved,10/06/2024 10:00,01/07/2024 10:05,4
+C27,TKT12,A21,Application,12/06/2024 09:00,System Message,Outbound,Application A21 Lease Sent,Resolved,12/06/2024 09:00,01/07/2024 10:05,5
+C28,TKT12,A21,Application,01/07/2024 10:00,System Message,Outbound,Application A21 Lease Executed & Deposit Received,Resolved,01/07/2024 10:00,01/07/2024 10:05,6
+C29,TKT13,U24,Unit,01/07/2024 10:06,System Message,Outbound,Lease Executed & Deposit Received - Unit U24,Resolved,01/07/2024 10:06,01/07/2024 10:06,1
+C30,TKT14,O25,Owner,28/06/2024 10:00,Email,Inbound,Update on U25B make-ready?,Resolved,28/06/2024 10:30,28/06/2024 11:00,1
+C31,TKT14,O25,Owner,28/06/2024 10:30,Email,Outbound,RE: Update on U25B make-ready - Status update sent,Acknowledged,28/06/2024 10:30,28/06/2024 11:00,2
+C32,TKT15,U25B,Unit,10/07/2024 11:06,System Message,Outbound,Lease Executed & Deposit Received - Unit U25B,Resolved,10/07/2024 11:06,10/07/2024 11:06,1
+C33,TKT16,U28B,Unit,10/07/2024 14:06,System Message,Outbound,Lease Executed & Deposit Received - Unit U28B,Resolved,10/07/2024 14:06,10/07/2024 14:06,1
+C34,TKT17,U31B,Unit,15/07/2024 10:06,System Message,Outbound,Lease Executed & Deposit Received - Unit U31B,Resolved,15/07/2024 10:06,15/07/2024 10:06,1
+C35,TKT18,U34B,Unit,20/08/2024 11:06,System Message,Outbound,Lease Executed & Deposit Received - Unit U34B,Resolved,20/08/2024 11:06,20/08/2024 11:06,1
+C36,TKT19,U37B,Unit,30/07/2024 12:06,System Message,Outbound,Lease Executed & Deposit Received - Unit U37B,Resolved,30/07/2024 12:06,30/07/2024 12:06,1
+C37,TKT20,U40B,Unit,05/08/2024 10:06,System Message,Outbound,Lease Executed & Deposit Received - Unit U40B,Resolved,05/08/2024 10:06,05/08/2024 10:06,1
+C38,TKT21,U45B,Unit,10/09/2024 11:06,System Message,Outbound,Lease Executed & Deposit Received - Unit U45B,Resolved,10/09/2024 11:06,10/09/2024 11:06,1
+C39,TKT22,U48B,Unit,15/08/2024 10:06,System Message,Outbound,Lease Executed & Deposit Received - Unit U48B,Resolved,15/08/2024 10:06,15/08/2024 10:06,1
+C40,TKT23,U7,Unit,01/09/2024 16:11,System Message,Outbound,Lease Executed & Deposit Received - Unit U7,Resolved,01/09/2024 16:11,01/09/2024 16:11,1
+C41,TKT24,WO21,WorkOrder,04/03/2024 09:05,Email,Outbound,Update on WO# WO21,Acknowledged,04/03/2024 09:05,05/03/2024 10:00,1
+C42,TKT24,WO21,WorkOrder,05/03/2024 09:05,Email,Outbound,WO# WO21 Completed,Resolved,05/03/2024 09:05,05/03/2024 10:00,2
+C43,TKT25,WO23,WorkOrder,17/06/2024 09:00,Email,Outbound,WO# WO23 Verified Complete,Resolved,17/06/2024 09:00,17/06/2024 09:00,1
+C44,TKT26,WO24,WorkOrder,03/07/2024 10:05,Email,Outbound,WO# WO24 Completed,Resolved,03/07/2024 10:05,03/07/2024 10:05,1
+C45,TKT27,WO26,WorkOrder,22/07/2024 09:00,Email,Outbound,WO# WO26 Verified Complete,Resolved,22/07/2024 09:00,22/07/2024 09:00,1
+C46,TKT28,WO27,WorkOrder,29/07/2024 09:00,Email,Outbound,WO# WO27 Completed,Resolved,29/07/2024 09:00,29/07/2024 09:00,1
+C47,TKT29,WO28,WorkOrder,31/07/2024 17:05,Email,Outbound,WO# WO28 Completed,Resolved,31/07/2024 17:05,31/07/2024 17:05,1
+C48,TKT30,WO29,WorkOrder,07/08/2024 09:00,Email,Outbound,WO# WO29 Verified Complete,Resolved,07/08/2024 09:00,07/08/2024 09:00,1
+C49,TKT31,WO30,WorkOrder,09/08/2024 10:05,Email,Outbound,WO# WO30 Completed,Resolved,09/08/2024 10:05,09/08/2024 10:05,1
+C50,TKT32,O1,Owner,01/04/2024 10:00,Email,Inbound,Question about P1 statement,Resolved,01/04/2024 10:15,01/04/2024 10:45,1
+C51,TKT32,O1,Owner,01/04/2024 10:15,Email,Outbound,RE: Question about P1 statement - Acknowledged,Acknowledged,01/04/2024 10:15,01/04/2024 10:45,2
+C52,TKT33,O24,Owner,20/07/2024 10:00,Email,Inbound,WO# WO48 approval for P24,Resolved,20/07/2024 10:10,20/07/2024 10:30,1
+C53,TKT33,O24,Owner,20/07/2024 10:10,Email,Outbound,RE: WO# WO48 approval - Approved,Resolved,20/07/2024 10:10,20/07/2024 10:30,2
+C54,TKT34,T4,Tenant,01/07/2024 08:00,Email,Inbound,Move-out notice for U24,Resolved,01/07/2024 09:00,01/07/2024 10:00,1
+C55,TKT34,T4,Tenant,01/07/2024 09:00,Email,Outbound,RE: Move-out notice for U24 - Confirmed,Acknowledged,01/07/2024 09:00,01/07/2024 10:00,2
+C56,TKT35,T30,Tenant,01/07/2024 08:00,Email,Inbound,Move-out notice for U28B,Resolved,01/07/2024 09:00,01/07/2024 10:00,1
+C57,TKT35,T30,Tenant,01/07/2024 09:00,Email,Outbound,RE: Move-out notice for U28B - Confirmed,Acknowledged,01/07/2024 09:00,01/07/2024 10:00,2
+C58,TKT36,U7,Unit,24/08/2024 11:05,System Message,Outbound,RE: Will sign renewal tomorrow - Noted,Resolved,24/08/2024 11:05,24/08/2024 11:05,4
+C59,TKT37,O7,Owner,25/08/2024 10:00,Email,Inbound,Did T8 sign renewal?,Resolved,25/08/2024 10:15,25/08/2024 10:30,1
+C60,TKT37,O7,Owner,25/08/2024 10:15,Email,Outbound,RE: Did T8 sign renewal? - Acknowledged,Acknowledged,25/08/2024 10:15,25/08/2024 10:30,2
+C61,TKT37,O7,Owner,25/08/2024 10:30,Phone Call,Outbound,Discussing T8 renewal status,Resolved,,25/08/2024 10:30,3
+C62,TKT38,O5,Owner,03/08/2024 10:00,Email,Inbound,Approved WO29 for P25,Resolved,03/08/2024 10:10,03/08/2024 10:20,1
+C63,TKT38,O5,Owner,03/08/2024 10:10,Email,Outbound,RE: Approved WO29 - Noted,Resolved,03/08/2024 10:10,03/08/2024 10:20,2
+C64,TKT39,T21,Tenant,10/04/2024 08:55,Email,Inbound,Smoke detector beeping,Resolved,10/04/2024 09:00,11/04/2024 10:00,1
+C65,TKT39,T21,Tenant,10/04/2024 09:00,Email,Outbound,RE: Smoke detector - WO created,Acknowledged,10/04/2024 09:00,11/04/2024 10:00,2
+C66,TKT39,WO41,WorkOrder,11/04/2024 09:05,Email,Outbound,WO41 Completed,Resolved,11/04/2024 09:05,11/04/2024 10:00,3
+C67,TKT40,T22,Tenant,15/04/2024 08:50,Email,Inbound,GFI outlet won't reset,Resolved,15/04/2024 09:00,17/04/2024 10:00,1
+C68,TKT40,T22,Tenant,15/04/2024 09:00,Email,Outbound,RE: GFI outlet - WO created,Acknowledged,15/04/2024 09:00,17/04/2024 10:00,2
+C69,TKT40,WO42,WorkOrder,17/04/2024 09:05,Email,Outbound,WO42 Completed,Resolved,17/04/2024 09:05,17/04/2024 10:00,3
+C70,TKT41,T23,Tenant,01/05/2024 08:55,Email,Inbound,Toilet handle loose,Resolved,01/05/2024 09:05,02/05/2024 10:00,1
+C71,TKT41,T23,Tenant,01/05/2024 09:05,Email,Outbound,RE: Toilet handle - WO created,Acknowledged,01/05/2024 09:05,02/05/2024 10:00,2
+C72,TKT41,WO43,WorkOrder,02/05/2024 09:05,Email,Outbound,WO43 Completed,Resolved,02/05/2024 09:05,02/05/2024 10:00,3
+C73,TKT42,O24,Owner,06/06/2024 09:00,Email,Inbound,How is U24 make-ready?,Resolved,06/06/2024 09:15,06/06/2024 09:45,1
+C74,TKT42,O24,Owner,06/06/2024 09:15,Email,Outbound,RE: U24 make-ready - Acknowledged,Acknowledged,06/06/2024 09:15,06/06/2024 09:45,2
+C75,TKT42,O24,Owner,06/06/2024 09:45,Email,Outbound,RE: U24 make-ready - Status update,Resolved,06/06/2024 09:45,06/06/2024 09:45,3
+C76,TKT43,O25,Owner,18/06/2024 09:00,Email,Inbound,Update on U25B paint?,Resolved,18/06/2024 09:15,18/06/2024 09:30,1
+C77,TKT43,O25,Owner,18/06/2024 09:15,Email,Outbound,RE: U25B paint - Status update sent,Acknowledged,18/06/2024 09:15,18/06/2024 09:30,2
+C78,TKT44,O28,Owner,03/07/2024 09:00,Email,Inbound,Blinds installation update U28B?,Resolved,03/07/2024 09:10,03/07/2024 09:20,1
+C79,TKT44,O28,Owner,03/07/2024 09:10,Email,Outbound,RE: Blinds U28B - Completed,Resolved,03/07/2024 09:10,03/07/2024 09:20,2
+C80,TKT45,O31,Owner,09/07/2024 09:00,Email,Inbound,Paint status U31B?,Resolved,09/07/2024 09:15,09/07/2024 09:30,1
+C81,TKT45,O31,Owner,09/07/2024 09:15,Email,Outbound,RE: U31B paint - Completed,Resolved,09/07/2024 09:15,09/07/2024 09:30,2
+C82,TKT46,O34,Owner,25/07/2024 09:00,Email,Inbound,Fence repair update P34?,Resolved,25/07/2024 09:15,25/07/2024 09:45,1
+C83,TKT46,O34,Owner,25/07/2024 09:15,Email,Outbound,RE: P34 fence - Acknowledged,Acknowledged,25/07/2024 09:15,25/07/2024 09:45,2
+C84,TKT47,O37,Owner,31/07/2024 09:00,Email,Inbound,Paint update U37B?,Resolved,31/07/2024 09:15,31/07/2024 09:30,1
+C85,TKT47,O37,Owner,31/07/2024 09:15,Email,Outbound,RE: U37B paint - Completed,Resolved,31/07/2024 09:15,31/07/2024 09:30,2
+C86,TKT48,O40,Owner,30/07/2024 10:00,Email,Inbound,Carpet cleaning update U40B?,Resolved,30/07/2024 10:10,30/07/2024 10:20,1
+C87,TKT48,O40,Owner,30/07/2024 10:10,Email,Outbound,RE: U40B carpet - Completed,Resolved,30/07/2024 10:10,30/07/2024 10:20,2
+C88,TKT49,O5,Owner,06/08/2024 09:00,Email,Inbound,Pressure wash update P25?,Resolved,06/08/2024 09:15,06/08/2024 09:30,1
+C89,TKT49,O5,Owner,06/08/2024 09:15,Email,Outbound,RE: P25 pressure wash - Acknowledged,Acknowledged,06/08/2024 09:15,06/08/2024 09:30,2
+C90,TKT50,O8,Owner,09/08/2024 10:00,Email,Inbound,Smoke detector WO update U48B?,Resolved,09/08/2024 10:10,09/08/2024 10:20,1

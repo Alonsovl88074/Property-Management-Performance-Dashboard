@@ -1,0 +1,51 @@
+OwnerID,OwnerName,ContactEmail,ContactPhone,OwnerType
+O1,Green Properties LLC,owner1@example.com,555-0101,Company
+O2,Smith Family Trust,owner2@example.com,555-0102,Company
+O3,Jane Doe,owner3@example.com,555-0103,Individual
+O4,John Smith,owner4@example.com,555-0104,Individual
+O5,Blue Sky Holdings,owner5@example.com,555-0105,Company
+O6,Michael Johnson,owner6@example.com,555-0106,Individual
+O7,Sarah Williams,owner7@example.com,555-0107,Individual
+O8,Oakwood Investments,owner8@example.com,555-0108,Company
+O9,David Brown,owner9@example.com,555-0109,Individual
+O10,Lisa Miller,owner10@example.com,555-0110,Individual
+O11,City Heights Group,owner11@example.com,555-0111,Company
+O12,Paul Davis,owner12@example.com,555-0112,Individual
+O13,Laura Garcia,owner13@example.com,555-0113,Individual
+O14,Riverfront Properties,owner14@example.com,555-0114,Company
+O15,Kevin Rodriguez,owner15@example.com,555-0115,Individual
+O16,Jessica Martinez,owner16@example.com,555-0116,Individual
+O17,Summit Realty Partners,owner17@example.com,555-0117,Company
+O18,Chris Lee,owner18@example.com,555-0118,Individual
+O19,Megan Adams,owner19@example.com,555-0119,Individual
+O20,Global Estate Group,owner20@example.com,555-0120,Company
+O21,Sunrise Holdings,owner21@example.com,555-0121,Company
+O22,Robert White,owner22@example.com,555-0122,Individual
+O23,Karen Black,owner23@example.com,555-0123,Individual
+O24,Golden Gate Investments,owner24@example.com,555-0124,Company
+O25,Mark Taylor,owner25@example.com,555-0125,Individual
+O26,Jennifer Anderson,owner26@example.com,555-0126,Individual
+O27,Peak Performance Properties,owner27@example.com,555-0127,Company
+O28,Thomas Wilson,owner28@example.com,555-0128,Individual
+O29,Patricia Thomas,owner29@example.com,555-0129,Individual
+O30,Lakeview Ventures,owner30@example.com,555-0130,Company
+O31,Charles Jackson,owner31@example.com,555-0131,Individual
+O32,Elizabeth White,owner32@example.com,555-0132,Individual
+O33,Bay Area Estates,owner33@example.com,555-0133,Company
+O34,Richard Harris,owner34@example.com,555-0134,Individual
+O35,Susan Martin,owner35@example.com,555-0135,Individual
+O36,Cornerstone Property Group,owner36@example.com,555-0136,Company
+O37,Joseph Thompson,owner37@example.com,555-0137,Individual
+O38,Barbara Garcia,owner38@example.com,555-0138,Individual
+O39,Emerald City Holdings,owner39@example.com,555-0139,Company
+O40,Chris Miller,owner40@example.com,555-0140,Individual
+O41,Nancy Davis,owner41@example.com,555-0141,Individual
+O42,West Coast Properties,owner42@example.com,555-0142,Company
+O43,Daniel Rodriguez,owner43@example.com,555-0143,Individual
+O44,Linda Martinez,owner44@example.com,555-0144,Individual
+O45,Midwest Investments,owner45@example.com,555-0145,Company
+O46,Paul Hernandez,owner46@example.com,555-0146,Individual
+O47,Donna Lopez,owner47@example.com,555-0147,Individual
+O48,Southland Management,owner48@example.com,555-0148,Company
+O49,George Perez,owner49@example.com,555-0149,Individual
+O50,Carol Scott,owner50@example.com,555-0150,Individual
