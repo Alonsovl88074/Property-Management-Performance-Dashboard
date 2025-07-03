@@ -44,7 +44,7 @@ This project demonstrates the end-to-end process of building a BI solution, star
 **Screenshots:**
 
 *   **Data Model View:**
-   (https://github.com/Alonsovl88074/Property-Management-Performance-Dashboard/blob/main/Snapshots/Relations.png)
+   ![Data Model View](/main/Snapshots/Relations.png)
 
 *   **Example DAX Measures:**
     ![Screenshot of Power BI showing DAX formula for Speed to Repair]
