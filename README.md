@@ -47,31 +47,23 @@ This project demonstrates the end-to-end process of building a BI solution, star
    ![Data Model View](Snapshots/Relations.png)
 
 *   **Example DAX Measures:**
-    ![Screenshot of Power BI showing DAX formula for Speed to Repair]
-    (path/to/your/dax_measure_screenshot.png)
-    ![Screenshot of Power BI showing DAX formula for Renewal Rate]
-    (path/to/your/dax_measure_screenshot2.png)
+    ![DAX formula for Speed to Repair](Snapshots/Speedrepair.png)
+
+    ![DAX formula for Renewal Rate](Snapshots/Renewalrate.png)
 
 *   **Executive Summary Dashboard:**
-    ![Screenshot of the Executive Summary Power BI Dashboard page]
-    (path/to/your/executive_summary_screenshot.png)
+    ![Executive Summary Power BI Dashboard](Snapshots/Executivesummary.png)
 
 *   **Leasing & Applications Dashboard:**
-    ![Screenshot of the Leasing & Applications Power BI Dashboard page]
-    (path/to/your/leasing_dashboard_screenshot.png)
+    ![Leasing & Applications Power BI Dashboard](Snapshots/Leasingandapplication.png)
 
 *   **Maintenance & Work Order Dashboard:**
-    ![Screenshot of the Maintenance & Work Order Power BI Dashboard page]
-    (path/to/your/maintenance_dashboard_screenshot.png)
+    ![Maintenance & Work Order Power BI Dashboard](Snapshots/Maintenance.png)
 
 *   **Turnover & Vacancy Dashboard:**
-    ![Screenshot of the Turnover & Vacancy Power BI Dashboard page]
-    (path/to/your/turnover_dashboard_screenshot.png)
+    ![Turnover & Vacancy Power BI Dashboard](Snapshots/Turnover.png)
 
 *   **Financial Snapshot Dashboard:**
-    ![Screenshot of the Financial Snapshot Power BI Dashboard page]
-    (path/to/your/financial_dashboard_screenshot.png)
+    ![Financial Snapshot Power BI Dashboard](Snapshots/Financialsnapshot.png)
 
-**(Optional: If you are comfortable sharing the data/file)**
-
-*   **Link to Project Files:** [Link to a folder in your repo containing the CSVs and .pbix file]
+*   **Link to Project Files:** [Datasets] [PM Consulting Testing.pbix]
