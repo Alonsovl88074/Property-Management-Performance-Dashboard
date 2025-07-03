@@ -43,14 +43,11 @@ This project demonstrates the end-to-end process of building a BI solution, star
 
 **Screenshots:**
 
-*(Replace the text below with actual screenshots from your Power BI file)*
-
 *   **Data Model View:**
     ![Screenshot of Power BI Data Model View showing tables and relationships]
     (path/to/your/model_screenshot.png)
 
 *   **Example DAX Measures:**
-    *(Show a screenshot of the Measures table or the formula bar for a couple of key measures)*
     ![Screenshot of Power BI showing DAX formula for Speed to Repair]
     (path/to/your/dax_measure_screenshot.png)
     ![Screenshot of Power BI showing DAX formula for Renewal Rate]
