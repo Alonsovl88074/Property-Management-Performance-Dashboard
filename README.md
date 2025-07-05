@@ -43,7 +43,7 @@ This project demonstrates the end-to-end process of building a BI solution, star
     
 ### Insights & Recommendations: Driving Profitability through Data
 
-Developing dashboards is a critical step, but the real value of Business Intelligence lies in translating data visualizations into actionable insights that drive business outcomes. In this simulated project, I focused on using the generated metrics and dashboards to identify potential opportunities for improving a Property Management company's profitability, directly addressing the core goal highlighted by models like Profit Coach's.
+Developing dashboards is a critical step, but the real value of Business Intelligence lies in translating data visualizations into actionable insights that drive business outcomes. In this simulated project, I focused on using the generated metrics and dashboards to identify potential opportunities for improving a Property Management company's profitability, directly addressing the core goal highlighted by models that manage properties in an advanced and automated way.
 
 Here are examples of insights that can be derived from the dashboards and corresponding potential recommendations:
 
@@ -56,7 +56,6 @@ Here are examples of insights that can be derived from the dashboards and corres
     *   **Insight:** The **"Leasing & Applications Performance"** dashboard provides key metrics like **"Applications per Lease Executed"** and **"Application Qualification Rate (%)"**. If "Applications per Lease Executed" is high, but "Application Qualification Rate (%)" is low, it suggests the marketing efforts are attracting many applicants, but they aren't meeting the criteria.
     *   **Recommendation:** This requires investigating the application criteria and comparing it to the applicant pool being attracted. It might lead to recommendations for adjusting marketing channels or refining screening requirements.
     *   **Impact:** Improving the qualification rate and the overall conversion funnel (visible via the steps measured in **"Speed to Application Selection/Lease Sent/Executed"**) reduces marketing costs per lease and speeds up the time to fill vacancies.
-
 *   **Improving Communication Efficiency:**
     *   **Insight:** The **"Average Response Time"** and **"# Touches to Resolution"** metrics on the Communication dashboard highlight the efficiency of handling inquiries. A high number of touches for resolved tickets could indicate inefficient communication or unresolved underlying issues.
     *   **Recommendation:** Analyze threads with high touches to identify common themes or process breakdowns (e.g., delayed information from a vendor leading to multiple follow-ups). This could lead to recommendations for better internal communication protocols or improved vendor coordination.
@@ -64,7 +63,7 @@ Here are examples of insights that can be derived from the dashboards and corres
 
 *   **Connecting Operations to Financial Outcomes:**
     *   **Insight:** The **"Financial Snapshot"** dashboard, linked with operational data (e.g., `Total Expenses` by `WorkOrders[Category]`), clearly shows the cost associated with maintenance. High costs in a specific category, combined with slow **"Speed to Repair"**, suggest not only inefficiency but also potentially higher expense without correlating speed gains.
-    *   **Recommendation:** Benchmark these costs and speeds against industry data (as Profit Coach's platform aims to do) and investigate outliers (vendors, units, or types of repairs) that are costing more or taking longer than expected.
+    *   **Recommendation:** Benchmark these costs and speeds against industry data and investigate outliers (vendors, units, or types of repairs) that are costing more or taking longer than expected.
     *   **Impact:** Optimizing maintenance processes reduces operational expenses, directly improving the **"Net Profit"**.
 
 **Conclusion on Consulting Value:**
