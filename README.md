@@ -1,4 +1,4 @@
-# Property Management Performance Dashboard (Simulated Data)
+# Property Management Performance Dashboard
 
 ### **Project Goal:** To develop a comprehensive Business Intelligence dashboard for Property Management (PM) companies to track key operational and financial performance metrics, inspired by the business model and publicly available metrics of the most relevant properties managements consulting solutions.
 
